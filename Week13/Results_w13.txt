@@ -1,0 +1,16 @@
+13,Thu,November 30,Dallas Cowboys,,Washington Redskins,38,14
+13,Sun,December 3,San Francisco 49ers,@,Chicago Bears,15,14
+13,Sun,December 3,Miami Dolphins,,Denver Broncos,35,9
+13,Sun,December 3,Minnesota Vikings,@,Atlanta Falcons,14,9
+13,Sun,December 3,Green Bay Packers,,Tampa Bay Buccaneers,26,20
+13,Sun,December 3,Jacksonville Jaguars,,Indianapolis Colts,30,10
+13,Sun,December 3,Tennessee Titans,,Houston Texans,24,13
+13,Sun,December 3,New England Patriots,@,Buffalo Bills,23,3
+13,Sun,December 3,New York Jets,,Kansas City Chiefs,38,31
+13,Sun,December 3,Baltimore Ravens,,Detroit Lions,44,20
+13,Sun,December 3,Los Angeles Chargers,,Cleveland Browns,19,10
+13,Sun,December 3,New Orleans Saints,,Carolina Panthers,31,21
+13,Sun,December 3,Oakland Raiders,,New York Giants,24,17
+13,Sun,December 3,Los Angeles Rams,@,Arizona Cardinals,32,16
+13,Sun,December 3,Seattle Seahawks,,Philadelphia Eagles,24,10
+13,Mon,December 4,Pittsburgh Steelers,@,Cincinnati Bengals,23,20

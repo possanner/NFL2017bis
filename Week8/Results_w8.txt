@@ -1,0 +1,13 @@
+8,Thu,October 26,Baltimore Ravens,,Miami Dolphins,40,0
+8,Sun,October 29,Minnesota Vikings,@,Cleveland Browns,33,16
+8,Sun,October 29,Buffalo Bills,,Oakland Raiders,34,14
+8,Sun,October 29,Atlanta Falcons,@,New York Jets,25,20
+8,Sun,October 29,Cincinnati Bengals,,Indianapolis Colts,24,23
+8,Sun,October 29,Carolina Panthers,@,Tampa Bay Buccaneers,17,3
+8,Sun,October 29,Philadelphia Eagles,,San Francisco 49ers,33,10
+8,Sun,October 29,New England Patriots,,Los Angeles Chargers,21,13
+8,Sun,October 29,New Orleans Saints,,Chicago Bears,20,12
+8,Sun,October 29,Seattle Seahawks,,Houston Texans,41,38
+8,Sun,October 29,Dallas Cowboys,@,Washington Redskins,33,19
+8,Sun,October 29,Pittsburgh Steelers,@,Detroit Lions,20,15
+8,Mon,October 30,Kansas City Chiefs,,Denver Broncos,29,19

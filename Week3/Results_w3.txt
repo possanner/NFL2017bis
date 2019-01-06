@@ -1,0 +1,16 @@
+3,Thu,September 21,Los Angeles Rams,@,San Francisco 49ers,41,39
+3,Sun,September 24,Jacksonville Jaguars,,Baltimore Ravens,44,7
+3,Sun,September 24,New York Jets,,Miami Dolphins,20,6
+3,Sun,September 24,Indianapolis Colts,,Cleveland Browns,31,28
+3,Sun,September 24,New England Patriots,,Houston Texans,36,33
+3,Sun,September 24,Philadelphia Eagles,,New York Giants,27,24
+3,Sun,September 24,Atlanta Falcons,@,Detroit Lions,30,26
+3,Sun,September 24,Buffalo Bills,,Denver Broncos,26,16
+3,Sun,September 24,Minnesota Vikings,,Tampa Bay Buccaneers,34,17
+3,Sun,September 24,Chicago Bears,,Pittsburgh Steelers,23,17
+3,Sun,September 24,New Orleans Saints,@,Carolina Panthers,34,13
+3,Sun,September 24,Tennessee Titans,,Seattle Seahawks,33,27
+3,Sun,September 24,Green Bay Packers,,Cincinnati Bengals,27,24
+3,Sun,September 24,Kansas City Chiefs,@,Los Angeles Chargers,24,10
+3,Sun,September 24,Washington Redskins,,Oakland Raiders,27,10
+3,Mon,September 25,Dallas Cowboys,@,Arizona Cardinals,28,17

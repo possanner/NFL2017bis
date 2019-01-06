@@ -1,0 +1,14 @@
+6,Thu,October 12,Philadelphia Eagles,@,Carolina Panthers,28,23
+6,Sun,October 15,Miami Dolphins,@,Atlanta Falcons,20,17
+6,Sun,October 15,Minnesota Vikings,,Green Bay Packers,23,10
+6,Sun,October 15,New England Patriots,@,New York Jets,24,17
+6,Sun,October 15,Houston Texans,,Cleveland Browns,33,17
+6,Sun,October 15,Chicago Bears,@,Baltimore Ravens,27,24
+6,Sun,October 15,New Orleans Saints,,Detroit Lions,52,38
+6,Sun,October 15,Washington Redskins,,San Francisco 49ers,26,24
+6,Sun,October 15,Los Angeles Rams,@,Jacksonville Jaguars,27,17
+6,Sun,October 15,Arizona Cardinals,,Tampa Bay Buccaneers,38,33
+6,Sun,October 15,Pittsburgh Steelers,@,Kansas City Chiefs,19,13
+6,Sun,October 15,Los Angeles Chargers,@,Oakland Raiders,17,16
+6,Sun,October 15,New York Giants,@,Denver Broncos,23,10
+6,Mon,October 16,Tennessee Titans,,Indianapolis Colts,36,22

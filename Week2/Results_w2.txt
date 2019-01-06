@@ -1,0 +1,16 @@
+2,Thu,September 14,Houston Texans,@,Cincinnati Bengals,13,9
+2,Sun,September 17,Kansas City Chiefs,,Philadelphia Eagles,27,20
+2,Sun,September 17,Arizona Cardinals,@,Indianapolis Colts,16,13
+2,Sun,September 17,New England Patriots,@,New Orleans Saints,36,20
+2,Sun,September 17,Carolina Panthers,,Buffalo Bills,9,3
+2,Sun,September 17,Pittsburgh Steelers,,Minnesota Vikings,26,9
+2,Sun,September 17,Tampa Bay Buccaneers,,Chicago Bears,29,7
+2,Sun,September 17,Baltimore Ravens,,Cleveland Browns,24,10
+2,Sun,September 17,Tennessee Titans,@,Jacksonville Jaguars,37,16
+2,Sun,September 17,Miami Dolphins,@,Los Angeles Chargers,19,17
+2,Sun,September 17,Oakland Raiders,,New York Jets,45,20
+2,Sun,September 17,Seattle Seahawks,,San Francisco 49ers,12,9
+2,Sun,September 17,Denver Broncos,,Dallas Cowboys,42,17
+2,Sun,September 17,Washington Redskins,@,Los Angeles Rams,27,20
+2,Sun,September 17,Atlanta Falcons,,Green Bay Packers,34,23
+2,Mon,September 18,Detroit Lions,@,New York Giants,24,10
